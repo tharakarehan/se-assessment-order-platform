@@ -1,5 +1,10 @@
 # se-assessment-order-platform
 
+## Demo
+
+<img src="https://github.com/tharakarehan/se-assessment-order-platform/blob/main/demo.gif">
+</p>
+
 ## Proposed Architecture
 
 Following is the purposed microservice architecture for this system.
