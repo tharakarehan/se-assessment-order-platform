@@ -1,0 +1,71 @@
+{
+  "items": [
+    {
+      "name": "Laptop",
+      "price": 34000,
+      "id": 1
+    },
+    {
+      "name": "iphone",
+      "price": 600000,
+      "id": 2
+    },
+    {
+      "name": "Saree",
+      "price": 7800,
+      "id": 3
+    },
+    {
+      "name": "Cream",
+      "price": 3000,
+      "id": 4
+    }
+  ],
+  "orders": [
+    {
+      "item": "Laptop",
+      "quantity": 3,
+      "address": "afshrshrsh",
+      "totcost": 102000,
+      "timestamp": "20221009161015",
+      "status": "NEW",
+      "id": 14
+    },
+    {
+      "item": "iphone",
+      "quantity": 1,
+      "address": "Colombo",
+      "totcost": 600000,
+      "timestamp": "20221009164611",
+      "status": "NEW",
+      "id": 21
+    },
+    {
+      "item": "Saree",
+      "quantity": 2,
+      "address": "Negombo",
+      "totcost": 15600,
+      "timestamp": "20221009165427",
+      "status": "NEW",
+      "id": 22
+    },
+    {
+      "item": "Laptop",
+      "quantity": 1,
+      "address": "Moratuwa",
+      "totcost": 34000,
+      "timestamp": "20221009221225",
+      "status": "NEW",
+      "id": 23
+    },
+    {
+      "item": "Cream",
+      "quantity": 2,
+      "address": "Dompe",
+      "totcost": 6000,
+      "timestamp": "20221009231742",
+      "status": "NEW",
+      "id": 24
+    }
+  ]
+}
